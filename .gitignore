@@ -1,6 +1,8 @@
+practice/
 __pycache__/
 .ipynb_checkpoints/
 .venv
 .vscode
 .python-version
 Pipfile.lock
+.swp
